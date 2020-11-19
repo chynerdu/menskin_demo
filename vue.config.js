@@ -1,3 +1,3 @@
 module.exports = {
-  publicPath: "/lumin/",
+  publicPath: "/menskin_demo/",
 };
